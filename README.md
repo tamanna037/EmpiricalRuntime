@@ -7,4 +7,6 @@ runtime issueDB.csv = Information about the selected 117789 issues
 
 sample Issues.csv = Information about the selected sample number (383) of issues 
 
+sample_issue_cmnt_sentence_with_infotype = Information of the sentences of Sample issue comment with predicted information type
+
 infotypedetection_lightgbm.ipynb = Code of information type detection
